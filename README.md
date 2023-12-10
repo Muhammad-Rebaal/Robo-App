@@ -9,7 +9,6 @@ This simple React app allows you to filter through a list of friendly robots, ea
 3. Run the app with `npm start`.
 4. Use the search bar to filter through the robot friends by name.
 
-## Screenshots
 
 ![RoboApp](RoboApp.png)
 
